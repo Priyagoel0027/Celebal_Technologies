@@ -1,4 +1,4 @@
- Data Exploration & Cleaning Using Pandas 
+ **<h1 style = "color:black;">Data Exploration & Cleaning Using Pandas</h1>**
  
 **Project Overview**
 	

@@ -1,6 +1,6 @@
  Data Exploration & Cleaning Using Pandas 
  
- Project Overview
+**Project Overview**
 	
 This project demonstrates Data Exploration and Cleaning Using Pandas in Python. The project involves loading a raw dataset, exploring its structure, identifying data quality issues, and applying preprocessing techniques to clean the data.
 
@@ -8,33 +8,33 @@ The entire workflow is implemented inside a Jupyter Notebook named assignment_1.
 
 The cleaned dataset is then exported as cleaned_data.csv for further analysis or machine learning tasks.
 
- Project Objectives
+ **Project Objectives**
 	
 The main objectives of this assignment are:
 
-Load and inspect raw datasets
+1.Load and inspect raw datasets
 
-Explore dataset structure and statistics
+2.Explore dataset structure and statistics
 
-Detect missing values and duplicates
+3.Detect missing values and duplicates
 
-Handle inconsistent or incorrect data
+4.Handle inconsistent or incorrect data
 
-Perform data cleaning using Pandas
+5.Perform data cleaning using Pandas
 
-Save the cleaned dataset for future use
+6.Save the cleaned dataset for future use
 
-Understand practical data preprocessing techniques
+7.Understand practical data preprocessing techniques
 
- Technologies Used
+ **Technologies Used**
 	
-Python - Programming Language
+1.**Python** - Programming Language
 
-Pandas -	Data Analysis & Cleaning
+2.**Pandas** -	Data Analysis & Cleaning
 
-Jupyter Notebook -	Development Environment
+3.**Jupyter Notebook** -	Development Environment
 
-Project Structure
+**Project Structure**
 
 assignment_1/
 

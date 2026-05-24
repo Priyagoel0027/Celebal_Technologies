@@ -11,24 +11,37 @@ The cleaned dataset is then exported as cleaned_data.csv for further analysis or
  Project Objectives
 	
 The main objectives of this assignment are:
+
 Load and inspect raw datasets
+
 Explore dataset structure and statistics
+
 Detect missing values and duplicates
+
 Handle inconsistent or incorrect data
+
 Perform data cleaning using Pandas
+
 Save the cleaned dataset for future use
+
 Understand practical data preprocessing techniques
 
  Technologies Used
 	
 Python - Programming Language
+
 Pandas -	Data Analysis & Cleaning
+
 Jupyter Notebook -	Development Environment
 
 Project Structure
 
 assignment_1/
+
 ├── assignment(1).ipynb
+
 ├── sports_shoes.csv
+
 ├── cleaned_sports_shoes.csv
+
 └── README.md

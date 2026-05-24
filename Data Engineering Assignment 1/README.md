@@ -1,6 +1,6 @@
  **<h1 style = "color:black;">Data Exploration & Cleaning Using Pandas</h1>**
  
-**Project Overview**
+**<h2 style = "color:black;">Project Overview</h2>**
 	
 This project demonstrates Data Exploration and Cleaning Using Pandas in Python. The project involves loading a raw dataset, exploring its structure, identifying data quality issues, and applying preprocessing techniques to clean the data.
 
@@ -8,7 +8,7 @@ The entire workflow is implemented inside a Jupyter Notebook named assignment_1.
 
 The cleaned dataset is then exported as cleaned_data.csv for further analysis or machine learning tasks.
 
- **Project Objectives**
+ **<h2 style = "color:black;">Project Objectives</h2>**
 	
 The main objectives of this assignment are:
 
@@ -26,7 +26,7 @@ The main objectives of this assignment are:
 
 7.Understand practical data preprocessing techniques
 
- **Technologies Used**
+ **<h2 style = "color:black;">Technologies Used</h2>**
 	
 1.**Python** - Programming Language
 
@@ -34,7 +34,7 @@ The main objectives of this assignment are:
 
 3.**Jupyter Notebook** -	Development Environment
 
-**Project Structure**
+**<h2 style = "color:black;">Project Structure</h2>**
 
 assignment_1/
 

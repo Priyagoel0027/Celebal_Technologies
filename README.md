@@ -1,6 +1,6 @@
-<h1 style = "color:black";>Brief Insights</h1>
+<h1 style = "color:black;">Brief Insights</h1>
 
-<h2 style = "color:blue";>1. Regional Performance</h2>
+<h2 style = "color:blue;">1. Regional Performance</h2>
 
 The sales analysis revealed that some regions generated significantly higher revenue than others. The highest-performing region contributed the largest share of total sales, indicating strong customer demand and market presence. Lower-performing regions may require targeted marketing strategies to improve sales.
 

@@ -31,9 +31,8 @@ The Superstore dataset contains information related to:
 
 The dataset was imported into a raw table named:
 
-```sql
 superstore_raw
-```
+
 ## Repository Structure
 
 ```text
@@ -54,9 +53,9 @@ Assignment-3-Sales-Data-Analysis/
 
 The Superstore dataset was imported into the database as:
 
-```sql
+
 superstore_raw
-```
+
 
 ### 2. Create Customers Table
 

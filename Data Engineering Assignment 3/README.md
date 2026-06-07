@@ -38,10 +38,15 @@ superstore_raw
 
 Assignment-3-Sales-Data-Analysis/
 │
+
 ├── README.md
+
 ├── sample_data/
+
 ├── sql_scripts/
+
 ├── outputs/
+
 └── report/
 
 

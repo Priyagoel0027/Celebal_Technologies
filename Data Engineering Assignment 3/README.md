@@ -35,7 +35,7 @@ superstore_raw
 
 ## Repository Structure
 
-```text
+
 Assignment-3-Sales-Data-Analysis/
 │
 ├── README.md
@@ -43,9 +43,7 @@ Assignment-3-Sales-Data-Analysis/
 ├── sql_scripts/
 ├── outputs/
 └── report/
-```
 
----
 
 ## Step 1: Data Preparation
 

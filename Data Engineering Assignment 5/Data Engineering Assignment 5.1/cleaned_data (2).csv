@@ -1,0 +1,10 @@
+ID,Name,Age,Category,Region,Sales
+1,Priya,22,Electronics,North,5000
+2,Rahul,25,Clothing,South,3000
+4,Sneha,28,Furniture,East,4000
+6,Priya,22,Electronics,North,5000
+7,Tanvi,30,Furniture,East,6000
+9,Rohit,40,Electronics,West,8000
+3,Amit,0,Electronics,North,7000
+5,Karan,35,Clothing,West,0
+8,Neha,19,Unknown,South,2000

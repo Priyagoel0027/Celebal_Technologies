@@ -1,4 +1,5 @@
 Brief Insights
+
 Successfully created and processed a Spark DataFrame using PySpark.
 
 Missing values in the Age, Department, and Salary columns were identified and replaced using appropriate default values.

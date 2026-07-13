@@ -1,0 +1,55 @@
+# ==========================================================
+# Project:
+# Real-Time Credit Card Fraud Risk Scoring Pipeline
+#
+# Author : Priya
+# Role   : Data Engineering Project
+#
+# Description:
+# This project implements a real-time fraud risk scoring
+# pipeline using PySpark, Delta Lake, Databricks and SQL
+# following the Medallion Architecture.
+# ==========================================================
+
+# -----------------------------
+# Core Data Processing
+# -----------------------------
+pyspark>=3.5.0
+
+# -----------------------------
+# Delta Lake
+# -----------------------------
+delta-spark>=3.2.0
+
+# -----------------------------
+# Data Analysis
+# -----------------------------
+pandas>=2.2.2
+numpy>=1.26.4
+
+# -----------------------------
+# Data Generation
+# -----------------------------
+faker>=26.0.0
+
+# -----------------------------
+# Visualization
+# -----------------------------
+matplotlib>=3.9.0
+plotly>=5.22.0
+
+# -----------------------------
+# Jupyter Notebook
+# -----------------------------
+jupyter>=1.0.0
+ipykernel>=6.29.5
+
+# -----------------------------
+# SQL Connectivity
+# -----------------------------
+sqlalchemy>=2.0.31
+
+# -----------------------------
+# Utilities
+# -----------------------------
+python-dateutil>=2.9.0

@@ -102,11 +102,11 @@ Real_Time_Credit_Card_Fraud_Risk_Scoring_Pipeline
 │   └── analytics_queries.sql
 │
 ├── screenshots
-│   ├── bronze_layer.png
-│   ├── silver_layer.png
-│   ├── gold_layer.png
-│   ├── fraud_dashboard.png
-│   └── sql_queries.png
+│   ├── bronze_layer.csv
+│   ├── silver_layer.csv
+│   ├── gold_layer.csv
+│   ├── fraud_dashboard.csv
+│   
 │
 ├── README.md
 └── requirements.txt
